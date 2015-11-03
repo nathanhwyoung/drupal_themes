@@ -13,6 +13,9 @@ Add these modules to:
 sites/all/themes
 ```
 
+```
+http://www.apaddedcell.com/how-create-drupal-7-theme-scratch
+```
 
 ## Technologies Used
 _Drupal_

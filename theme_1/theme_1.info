@@ -1,0 +1,11 @@
+name = Theme 1
+description = Nathan Young Custom Theme #1
+core = 7.x
+engine = phptemplate
+
+regions[header] = Header
+regions[sidebar_first] = Right sidebar
+regions[content] = Content
+regions[footer] = Footer
+
+stylesheets[all][] = css/style.css
